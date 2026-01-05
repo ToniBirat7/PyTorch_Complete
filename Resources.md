@@ -8,4 +8,4 @@
 
 [Py_Torch_FreeCodeCamp](https://www.youtube.com/watch?v=V_xro1bcAuA&t=2598s)
 
-[Py_Torch_CampuX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
+[Py_Torch_CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
